@@ -2,7 +2,10 @@
 
 # Hi there 👋
 
-### 8806568031
+# 🔭I'm currently working on front-end webdevelopment 
+# 🌱I'm currently learning ReactJs and ReactNative
+
+# 📬How to reach me:
 ### cassiuscolaco7@gmail.com 
 ### col001@chowgules.ac.in
 
