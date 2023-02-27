@@ -7,5 +7,5 @@
 
 # 📬How to reach me:
 ### cassiuscolaco7@gmail.com 
-### col001@chowgules.ac.in
+
 
